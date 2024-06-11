@@ -36,7 +36,7 @@ any_number = get_valid_number("Enter a number: ")
 print(f"You entered: {any_number}")
 
 print("\nEnter a number greater than or equal to 2:")
-number_gte_10 = get_valid_number("Enter a number: ", min_value=2)
+number_gte_10 = get_valid_number("Enter a number: ", min_value=3)
 print(f"You entered: {number_gte_10}")
 
 print("\nEnter a number less than or equal to 10:")
